@@ -77,3 +77,17 @@ from bebida import
 - '-'.join() junta a frase separada por indices,separando por traços
 - print(""" """) vai imprimir o conteúdo com sua quebra de linha
 - podemos combinar métodos
+
+## Condicionais
+
+- Forma:
+  
+```python
+if tempo <= 3:
+    print('carro novo amor')
+else:
+    print('lata velha')
+```
+
+- Pode ser simples apenas com if
+- Após a decisão ele segue o fluxo normal do código
