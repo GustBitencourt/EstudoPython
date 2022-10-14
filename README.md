@@ -91,3 +91,4 @@ else:
 
 - Pode ser simples apenas com if
 - Após a decisão ele segue o fluxo normal do código
+- Pode existir condições aninhadas
